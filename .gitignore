@@ -1,2 +1,7 @@
+.DS_Store
 .ipynb_checkpoints/
 env.py
+*.csv
+*.json
+source_json/
+source_csv/
